@@ -1,4 +1,4 @@
----
+-github.md--
 title: Creating and deleting branches within your repository
 intro: 'You can create or delete branches directly on {% data variables.product.product_name %}.'
 redirect_from:
